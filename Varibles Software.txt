@@ -1,0 +1,16 @@
+event.dtPayment 				Hora antes de calcular el pago, tambien inicio de la tolerancia de pago
+event.minutes.ui16Value 		Tiempo de estancia en minutos
+event.moneyToPay.ui16Vlue 		Dinero a cobrar (unsigned int solo la parte entera)
+event.dMoneyToPay				Dinero a cobrar (Tipo Dobule)
+event.moneyOut				Dinero a dar de cambio
+event.dtWrite				Fecha de entrada
+event.dtMake				En Cajero Fecha de Pago 
+
+sysVars.typeModule.dirModule 		direccion del modulo
+sysVars.infoModule.toleranTime_exit.ui8Value[1] Tolerancia de salida en caso del Cajero
+sysVars.infoModule.toleranTime_exit.ui8Value[2] Tolerancia de salida en caso del Cajero
+sysVars.infoModule.validatorVal	Validador del modulo
+
+32BF7614
+
+673856d8

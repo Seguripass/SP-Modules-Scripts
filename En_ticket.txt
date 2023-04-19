@@ -1,0 +1,17 @@
+*Boleto Estacionamiento
+-
+-Folio    : 
+-
+-Entrada  : 
+-Tolerancia Salida:
+-
+^!Cto. Centro Comercial 19 Metalurgistas No. 2, Cd. Satélite, 53100 Naucalpan de Juárez, Méx.
+^!ESTACIONAMIENTO OPERADO POR: Dunza Estacionamientos, S.A. de C.V.
+^!DOMICILIO FISCAL: Xicotencatl No. 371, Col. Chapultepec Norte
+^!Morelia, Mich., C.P. 58260, R.F.C. DES-110630-1E8
+^!SEGURO CONTRA ROBO TOTAL DE AUTOMÓVIL HASTA POR $400,000.00 PESOS.
+^!POLIZA: 3-430-5124
+^!La empresa no se hace responsable
+^!por el acceso a las instalaciones del estacionamiento
+^!de cualquier tipo de vehículos como MOTOCICLETAS O BICICLETAS
+^!Contrato de prestacion de servicios www.dunsa.com/contrato

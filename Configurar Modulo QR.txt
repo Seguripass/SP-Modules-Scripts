@@ -1,0 +1,29 @@
+VNC 
+Enviar archivos a Desktop
+
+ejecutar explorador 
+sudo pcmanfm
+
+Mover archivo 
+Parking_ticket.py
+En_ticket.txt
+a
+/home/pi
+
+Mover archivo 
+Module_E_S_P_01_06QR
+a 
+/sp
+
+Renombrar archivo Modulo a ModuloOld
+sudo mv Modulo ModuloOld
+
+Renombrar archivo Module_E_S_P_01_06QR a Modulo 
+sudo mv Module_E_S_P_01_06QR Modulo 
+
+otorgar permisos
+sudo chmod +x Modulo
+
+Configurar el dispositio como tipo 11
+
+sudo reboot

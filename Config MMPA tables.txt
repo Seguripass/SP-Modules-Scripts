@@ -1,0 +1,11 @@
+update Config_Init set denomination = 1;
+update Config_Hoppers set val_CoinHop1 = 1, val_CoinHop2 = 2, val_CoinHop3 = 5, channel_hopper1  = 4, channel_hopper2 = 2, channel_hopper3 = 3;
+update Config_TypeDevices set coin_selector =1, hopper3 =1;
+
+insert Lcd_Msg_P set id_message = 56, id_language = 1, strMessage = 'Error de red: Servidor no encontrado';
+insert Lcd_Msg_P set id_message = 56, id_language = 2, strMessage = 'Network error: Server not found';
+insert Lcd_Msg_P set id_message = 57, id_language = 1, strMessage = 'Error de servidor: Respuesta incorrecta o incompleta';
+insert Lcd_Msg_P set id_message = 57, id_language = 2, strMessage = 'Server error: Incomplete or wrong answer';
+
+
+
